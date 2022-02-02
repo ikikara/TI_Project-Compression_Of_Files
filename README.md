@@ -21,7 +21,7 @@ Consists in develop a program that apply some compression algorithms in some fil
 2. Libraries
     - [DaHuffman](https://pypi.org/project/dahuffman/) (for version 2020 and 2021)
     - [Deflate](https://pypi.org/project/deflate/) (only for version 2020)
-    - [Matplotlib](https://docs.python.org/3/library/pickle.html#module-pickle) (only for version 2021)
+    - [Pickle](https://docs.python.org/3/library/pickle.html#module-pickle) (only for version 2021)
 
 
 ## Notes important to read:
