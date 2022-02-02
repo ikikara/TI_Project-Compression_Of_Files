@@ -32,7 +32,7 @@ For decompression:<br>
      + off -> nothing will be displayed
 - The < extension> will define the type of file that will be retrieved when decompressing
 - The compressed files will go to the following directory:<br>
-     + deflate/compressed
+     + huffman+rle/compressed
 - The unzipped files will go to the following directory:<br>
-     + deflate/decompress 
+     + huffman+rle/decompress 
 - Although the on/off part appears, running the compression command will never show any "print" in the terminal 
