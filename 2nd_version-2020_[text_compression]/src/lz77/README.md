@@ -1,4 +1,4 @@
-# TI_Project-LZ
+# TI_Project-LZ77
 
 - [x] Finished
 
