@@ -30,7 +30,7 @@ For decompression:<br>
 - If you run the program with:<br>
      + on -> the compression or decompression will be displayed in the terminal<br>
      + off -> nothing will be displayed
-- The <extension> will define the type of file that will be retrieved when decompressing
+- The < extension> will define the type of file that will be retrieved when decompressing
 - The compressed files will go to the following directory:<br>
      + deflate/compressed
 - The unzipped files will go to the following directory:<br>
