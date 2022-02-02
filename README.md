@@ -25,7 +25,7 @@ Consists in develop a program that apply some compression algorithms in some fil
 
 
 ## Notes important to read:
-   - In this repository I have a version of this work from 2020 and from 2021. The way to run this 2 versions it's the different so check the respective folders to know how to run.
+   - In this repository I have a version of this work from 2020 and from 2021. The way to run this 2 versions it's different so check the respective folders to know how to run.
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
