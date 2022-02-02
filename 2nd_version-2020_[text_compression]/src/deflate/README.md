@@ -1,4 +1,4 @@
-# TI_Project-Compression_Of_Text
+# TI_Project-Deflate
 
 - [x] Finished
 
