@@ -25,6 +25,7 @@ For decompression:<br>
 *NOTE: It is necessary to have the file 'huffman_aux.bin' in the same directory as huffman.py*
 
 ## Notes important to read
+- It is necessary to have the files to be compressed/decompressed in the same folder as the deflate.py file 
 - The -compress and -decompress flags are used to distinguish whether to compress or decompress.
 - If you run the program with:<br>
      + on -> the compression or decompression will be displayed in the terminal<br>
