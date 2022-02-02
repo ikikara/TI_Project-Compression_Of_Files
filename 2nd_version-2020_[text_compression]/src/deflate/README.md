@@ -22,7 +22,7 @@ For decompression:<br>
 ```shellscript
 [your-disk]:[name-path]> python deflate.py <window-size> <buffer-size> -decompress on/off <name-of-file> <extension>
 ```
-*NOTE: It is necessary to have the file 'huffman_aux.bin' in the same directory as huffman.py*
+*NOTE: It is necessary to have the file 'huffman_aux.bin' in the same directory as deflate.py*
 
 ## Notes important to read
 - It is necessary to have the files to be compressed/decompressed in the same folder as the deflate.py file 
