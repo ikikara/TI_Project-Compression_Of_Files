@@ -29,3 +29,4 @@ Consists in develop a program that apply some compression algorithms in some fil
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
+- [Pedro Martins](https://github.com/PedroMartinsUC)
