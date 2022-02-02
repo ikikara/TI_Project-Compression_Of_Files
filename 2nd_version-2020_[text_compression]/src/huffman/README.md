@@ -1,4 +1,4 @@
-# TI_Project-Huffman Encoding+RLE
+# TI_Project-Huffman Encoding
 
 - [x] Finished
 
@@ -11,7 +11,7 @@
 Algorithm of compression. This Algorithm use Huffman Encoding and RLE.
 
 ## To run this project:
-[WARNING] Python 3.9 and the libraries refered must be installed <br>
+[WARNING] Python 3.9(or higher) and the libraries refered must be installed <br>
 For compression:<br>
 ```shellscript
 [your-disk]:[name-path]> python huffman.py <window-size> <buffer-size> -compress on/off <name-of-file>
