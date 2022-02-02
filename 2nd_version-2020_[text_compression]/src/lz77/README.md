@@ -1,4 +1,4 @@
-# TI_Project-Deflate
+# TI_Project-LZ
 
 - [x] Finished
 
