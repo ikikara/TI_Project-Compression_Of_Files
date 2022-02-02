@@ -11,7 +11,7 @@
 Algorithm of compression, LZ77.
 
 ## To run this project:
-[WARNING] Python 3.9 and the libraries refered must be installed <br>
+[WARNING] Python 3.9(or higher) and the libraries refered must be installed <br>
 For compression:<br>
 ```shellscript
 [your-disk]:[name-path]> python lz77.py <window-size> <buffer-size> -compress on/off <name-of-file>
