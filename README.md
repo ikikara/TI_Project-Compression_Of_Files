@@ -10,7 +10,7 @@
 
 ## Description
 This was the 2nd project developed for Information Theory subject @University of Coimbra, Informatics Engineering <br>
-Consists in develop a program that apply some compression algorithms in some files. Also helps to do a study about the efficiency of this algorithms.
+Consists in develop a group of programs that apply some compression algorithms in some files. Also helps to do a study about the efficiency of this algorithms.
 
 #### Main Languages:
 ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA)
