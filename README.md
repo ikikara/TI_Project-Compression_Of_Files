@@ -28,5 +28,5 @@ Consists in develop a group of programs that apply some compression algorithms i
    - In this repository I have a version of this work from 2020 and from 2021. The way to run this 2 versions it's different so check the respective folders to know how to run.
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Pedro Martins](https://github.com/PedroMartinsUC)
